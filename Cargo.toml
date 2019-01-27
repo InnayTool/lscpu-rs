@@ -1,0 +1,7 @@
+[package]
+name = "lscpu-rs"
+version = "0.1.0"
+authors = ["Innay Tool <github@innay.de>"]
+edition = "2018"
+
+[dependencies]
